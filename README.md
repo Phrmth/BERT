@@ -1,4 +1,3 @@
-# 100daysofcodewithPython
 
-## Day 1: Refer to the [notebook] (http://xxxx)
+ This is a repo for applying transfer learning on various text related tasks using BERT 
 
